@@ -1,1 +1,3 @@
 Added from local repository
+
+New file added directly in the remote repository
