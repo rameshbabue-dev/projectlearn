@@ -1,1 +1,1 @@
-New file
+New file added directly in the remote repository
